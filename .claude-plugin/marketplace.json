@@ -1,0 +1,25 @@
+{
+  "name": "gathering-architect",
+  "owner": {
+    "name": "Klara Hermesz",
+    "email": "klara@aienablement.academy"
+  },
+  "description": "A coaching-first skill for designing gatherings, workshops, events, hackathons, and learning communities, grounded in facilitation science.",
+  "plugins": [
+    {
+      "name": "gathering-architect",
+      "source": "./plugins/gathering-architect",
+      "description": "Coaching-first gathering & facilitation design: purpose-first diagnosis, non-obvious methods, introvert-friendly defaults, and evidence you can actually defend.",
+      "version": "3.0.0",
+      "license": "CC-BY-4.0",
+      "homepage": "https://github.com/klarahermesz/gathering-architect-marketplace",
+      "repository": "https://github.com/klarahermesz/gathering-architect-marketplace",
+      "category": "productivity",
+      "keywords": ["facilitation", "workshop", "events", "community", "hackathon", "gatherings", "learning-design"],
+      "author": {
+        "name": "Klara Hermesz",
+        "email": "klara@aienablement.academy"
+      }
+    }
+  ]
+}
