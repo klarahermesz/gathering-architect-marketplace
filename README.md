@@ -32,6 +32,18 @@ Then just describe a gathering you're planning, or run the skill directly:
 /gathering-architect:gathering-architect
 ```
 
+## Add it to Cowork (no coding needed)
+
+Using the Claude desktop app instead of the terminal? You can add this without any commands:
+
+1. Download **`gathering-architect-cowork-plugin.zip`** from this repo (click the file in the list above, then the **Download raw file** button). You'll need a paid Claude plan (Pro, Max, Team, or Enterprise).
+2. Open the **Claude desktop app** and click the **Cowork** tab.
+3. In the left sidebar, click **Customize** — this is where your skills and plugins live.
+4. Choose **Add plugin** (or "Browse plugins"), then **Upload a file**, and select the zip you downloaded.
+5. Start a Cowork chat, type **/** and pick **gathering-architect** — or just describe the event you're planning and Claude will reach for it.
+
+(Menu labels in Cowork shift slightly between versions, but the path is always through **Customize**.)
+
 ## What's inside
 
 ```
