@@ -22,7 +22,7 @@ It bundles five reference libraries (facilitation methods, community frameworks,
 In Claude Code (or Cowork), add this marketplace and install the plugin:
 
 ```
-/plugin marketplace add klarahermesz/gathering-architect-marketplace
+/plugin marketplace add klarahermesz/gathering-architect
 /plugin install gathering-architect@gathering-architect
 ```
 
